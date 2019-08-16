@@ -47,7 +47,7 @@ Now, you can
 > deactivate  
 
 if you have probelm with oh-my-zsh, while virtualenv is not showing at the left of your terminals. 
-cd
+cd /Users/isaackei/.oh-my-zsh/custom/themes/powerlevel9k
 
 find 
 
