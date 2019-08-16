@@ -46,7 +46,15 @@ Now, you can
 >
 > deactivate  
 
+if you have probelm with oh-my-zsh, while virtualenv is not showing at the left of your terminals. 
+cd
 
+find 
+
+defined POWERLEVEL9K_LEFT_PROMPT_ELEMENTS || POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(virtualenv context dir vcs)
+  defined POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS || POWERLEVEL9K_RIGHT_PROMPT_
+
+add "virtualenv" inside (context dir vcs) 
 
 
 
